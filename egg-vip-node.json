@@ -4,7 +4,7 @@
         "version": "PTDL_v2",
         "update_url": null
     },
-    "exported_at": "2023-02-01T13:11:25+07:00",
+    "exported_at": "2023-03-08T08:36:48+07:00",
     "name": "NODEJS PREMIUM - AMIRUL DEV",
     "author": "amiruldev20@gmail.com",
     "description": "egg nodejs pterodactyl nodejs v18, auto install speedtest, ffmpeg, imagemagick",
@@ -12,7 +12,7 @@
     "docker_images": {
         "NodeJS 14": "ghcr.io\/amiruldev20\/nodevip:14",
         "NodeJS 16": "ghcr.io\/amiruldev20\/nodevip:16",
-        "NodrJS 18": "ghcr.io\/amiruldev20\/nodevip:18"
+        "NodeJS 18": "ghcr.io\/amiruldev20\/nodevip:18"
     },
     "file_denylist": [],
     "startup": "SILAHKAN START SERVER, JALANKAN SEMUA PERINTAH DI COMMAND !!",
